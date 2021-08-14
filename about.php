@@ -1,5 +1,5 @@
 <?php include "includes/header.php";?>
-
+<s></s>
 	<!-- Navigation -->
 	
 	<?php include "includes/navigation.php";?>
@@ -67,7 +67,7 @@
 						<p class="text-muted">Lead Designer</p>
 						<ul class="list-inline social-buttons">
 							<li class="list-inline-item">
-								<a href="#">
+								<a href="#"></a>
 									<i class="fab fa-twitter"></i>
 								</a>
 							</li>
