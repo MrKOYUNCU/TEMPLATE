@@ -1,5 +1,5 @@
 <?php include "includes/header.php";?>
-<s>sssssssssssss</s>
+<s>sssssss</s>
 	<!-- Navigation -->
 	
 	<?php include "includes/navigation.php";?>
